@@ -74,7 +74,7 @@ Interactive dashboard analyzing sales data with Python and Tableau
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=maingi-j-kungu&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaingiJ3&show_icons=true&theme=default)
 
 ## 📫 Let's Connect
 

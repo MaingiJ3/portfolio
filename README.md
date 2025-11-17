@@ -78,9 +78,9 @@ Interactive dashboard analyzing sales data with Python and Tableau
 
 ## 📫 Let's Connect
 
-- 📧 **Email:** your-email@domain.com
+- 📧 **Email:** maingi.j.kungu.com
 - 💼 **LinkedIn:** [Joseph Kungu Maingi](https://linkedin.com/in/yourprofile)
-- 🌐 **Portfolio:** [maingi-j-kungu.github.io](https://maingi-j-kungu.github.io)
+- 🌐 **Portfolio:** [maingi-j-kungu.github.io](https://MaingiJ3.github.io)
 
 ---
 

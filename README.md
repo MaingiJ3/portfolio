@@ -84,4 +84,4 @@ Interactive dashboard analyzing sales data with Python and Tableau
 
 ---
 
-⭐️ From [Joseph Kungu Maingi](https://github.com/maingi-j-kungu)
+⭐️ From [Joseph Kungu Maingi](https://github.com/MaingiJ3)

@@ -4,7 +4,7 @@
 
 **A seasoned clinician with a decade of hands-on experience across Internal Medicine, Trauma Surgery, Non-Communicable Diseases, and Mental Health. Now leveraging this deep clinical expertise through modern skills in data analysis, programming, and graphic design to bridge the gap between patient care and health technology.**
 
-*I transform data into insights, code into solutions, and ideas into visual stories*
+**I transform data into insights, code into solutions, and ideas into visual stories**
 
 ## 🚀 Skills
 
